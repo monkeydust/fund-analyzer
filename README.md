@@ -11,5 +11,8 @@ e.g.
 > ask_advisor("What is the most common holding across all of the funds? Just return the name of the one holding.")
 
 > The most common holding across all these funds is **Microsoft Corporation**, appearing in multiple funds with varying levels of allocation.
+>
+
+The application uses OpenAI gpt-4o-mini and OpenAI Swarm agent workflow
 
 ![image](https://github.com/user-attachments/assets/7dc0b1a8-823b-4700-9eaf-4ac886a0672f)
