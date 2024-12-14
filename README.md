@@ -16,3 +16,8 @@ e.g.
 The application uses OpenAI gpt-4o-mini and OpenAI Swarm agent workflow
 
 ![image](https://github.com/user-attachments/assets/7dc0b1a8-823b-4700-9eaf-4ac886a0672f)
+
+
+Prepared for:
+
+![image](https://github.com/user-attachments/assets/ccab7e15-cd54-41f7-be7a-ec46b2401b5e)
