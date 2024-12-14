@@ -12,3 +12,4 @@ e.g.
 
 > The most common holding across all these funds is **Microsoft Corporation**, appearing in multiple funds with varying levels of allocation.
 
+![image](https://github.com/user-attachments/assets/7dc0b1a8-823b-4700-9eaf-4ac886a0672f)
