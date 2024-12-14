@@ -4,7 +4,8 @@
 2. Use 'download_pdfs.py' and then 'convert_pdfs.py' to get the fund data
 3. Use 'mooc-analyzer.ipynb' to then step through the main application.
 4. If files in right directory it should generate questions and create a csv file with the extracted info that you can query.
-
+5. If you want to just see the output of processing over 100 fund pdf files using gpt-4o-mini using this method then look at the extracted_fund_data.csv file.
+   
 e.g. 
 
 
